@@ -1,0 +1,7 @@
+
+.idea
+__pycache__
+build
+dist
+ffmpeg.exe
+main1.py
