@@ -20,8 +20,8 @@ Dependencies:
 2) Download FFmpeg and place it in the same folder as "main.py".
 
 # Installation and running from release
-1) Download and unpack the .zip file.
-2) Download FFmpeg and place it in the same folder as "youtubedownloader.exe".
+1) Download the .exe file from Release section.
+2) Download FFmpeg and place it in the same folder as the .exe file.
 
 # Building an .exe file from source code
 1) Install pyinstaller and [pyinstaller-versionfile](https://pypi.org/project/pyinstaller-versionfile).
