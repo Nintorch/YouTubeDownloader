@@ -1,6 +1,10 @@
 # YoutubeDownloader
 A GUI program that allows anyone to download a video from YouTube with different formats and resolutions.
 
+![image](https://user-images.githubusercontent.com/92302738/207089440-83980d32-381e-4617-bf95-caf2deaef13c.png)
+![image](https://user-images.githubusercontent.com/92302738/207090490-46e2a91d-4bdc-41ac-a531-1922355e005e.png)
+
+
 Dependencies:
 - wxPython
 - pytube
